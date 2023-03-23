@@ -3,8 +3,13 @@
 </div>
 
 <div align=center>
-	<h3>📧 Email 📧</h3>
-	<p>minjia13@gmail.com</p>
+	<h3>🎨 SNS & Portfolio 🎨</h3>
+	<a href="https://miiniu.tistory.com/">
+		<img src="https://img.shields.io/badge/Tistory-7D929E?style=flat&logo=Tistory&logoColor=white" />
+	</a>
+	<a href="minjia13@gmail.com">
+		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
+	</a>
 </div>
 
 <br><br>
