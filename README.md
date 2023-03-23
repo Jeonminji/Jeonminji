@@ -1,7 +1,7 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&weight=auto&height=230&section=header&text=Imji's%20Github&fontSize=75) -->
 
 <div align=center>
-	<h3>📚 Tech Stack 📚</h3>
+	<h2>📚 Tech Stack 📚</h2>
 	<p>✨ Platforms & Languages ✨</p>
 </div>
 <div align="center">
@@ -53,7 +53,7 @@
 </div>
 
 <br><br>
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+<h2 align="center">👩‍💻 My Github Stats 👩‍💻</h2>
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeonminji&layout=compact"><br><br>
