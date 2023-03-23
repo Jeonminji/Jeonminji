@@ -1,7 +1,15 @@
-<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&weight=auto&height=230&section=header&text=Imji's%20Github&fontSize=75) -->
+<div align=center>
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=230&section=header&text=Imji's%20Github&fontSize=75" />	
+</div>
 
 <div align=center>
-	<h2>📚 Tech Stack 📚</h2>
+	<h3>📧 Email 📧</h3>
+	<p>minjia13@gmail.com</p>
+</div>
+
+<br><br>
+<div align=center>
+	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
 </div>
 <div align="center">
@@ -52,8 +60,8 @@
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>
 </div>
 
-<br><br>
-<h2 align="center">👩‍💻 My Github Stats 👩‍💻</h2>
+<br><br><br>
+<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeonminji&layout=compact"><br><br>
