@@ -3,7 +3,7 @@
 </div>
 
 <div align=center>
-	<h3>🎨 SNS & Portfolio 🎨</h3>
+	<h3>🎨 SNS🎨</h3>
 	<a href="https://miiniu.tistory.com/">
 		<img src="https://img.shields.io/badge/Tistory-7D929E?style=flat&logo=Tistory&logoColor=white" />
 	</a>
