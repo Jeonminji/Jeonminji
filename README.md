@@ -67,17 +67,15 @@
   <br>
   <img src="https://img.shields.io/badge/GoogleCloud-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/></a>
-<!--  GCP  -->
-<!-- 안드로이드 -->
 </div>
 
 <br><br><br>
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeonminji&layout=compact"><br><br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeonminji&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeonminji&layout=compact">
+	<br>
+<img src="https://github-readme-stats.vercel.app/api?username=Jeonminji&show_icons=true">
 
 </div>
 
