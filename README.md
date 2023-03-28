@@ -7,8 +7,11 @@
 	<a href="https://miiniu.tistory.com/">
 		<img src="https://img.shields.io/badge/Tistory-7D929E?style=flat&logo=Tistory&logoColor=white" />
 	</a>
+	<a href="https://blog.naver.com/minjia1)">
+		<img src="https://img.shields.io/badge/Naver%20Blog-03C75A?style=flat&logo=Naver&logoColor=white" />
+	</a>
 	<a href="mailto:minjia13@gmail.com">
-		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
+		<img src="https://img.shields.io/badge/Mail-EA4335?style=flat&logo=Gmail&logoColor=white" />
 	</a>
 </div>
 
