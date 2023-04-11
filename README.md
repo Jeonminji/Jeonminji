@@ -77,7 +77,7 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeonminji&layout=compact">
-	<br>
+<br>
 <img src="https://github-readme-stats.vercel.app/api?username=Jeonminji&show_icons=true">
 
 </div>
