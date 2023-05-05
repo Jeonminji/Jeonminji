@@ -83,12 +83,12 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jeonminji)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeonminji&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 	
-<br>
+<!-- <br>
 <br><br><br>
 <h3 align="center">🎖️ Ranking 🎖️</h3>
 <h5 align="center"> 목표 : 2023년 5월 중순 되기 전 골드 찍기 </h5>	
 	
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=eksanwl92)](https://solved.ac/eksanwl92)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=eksanwl92)](https://solved.ac/eksanwl92) -->
 
 
 
